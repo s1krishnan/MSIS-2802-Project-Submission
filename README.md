@@ -1,2 +1,2 @@
 # MSIS-2802-Project-Submission
-MSIS 2802 Project Submission Student Performance Data Neha Pawar Sneha Krishnan
+MSIS 2802 Project Submission of Student Performance Data by Neha Pawar and Sneha Krishnan
